@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const ArticleCard = ({ article }) => {
+  console.log(article.cover?.localFile)
   return (
     <Link
       to={`/article/${article.slug}`}

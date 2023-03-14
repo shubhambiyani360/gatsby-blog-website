@@ -3322,8 +3322,13 @@ const Navbar = () => {
     className: "flex flex-row items-baseline justify-end"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_0__.Link, {
     className: "font-medium",
-    to: "/about"
-  }, "About"))));
+    to: "/contactform"
+  }, "Create Blog")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
+    className: "flex flex-row items-baseline justify-end"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_0__.Link, {
+    className: "font-medium",
+    to: "/contactformblog"
+  }, "See blogs"))));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbar);
 

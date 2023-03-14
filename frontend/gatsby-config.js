@@ -26,6 +26,19 @@ module.exports = {
             },
           },
           {
+            singularName: "contact-form",
+            queryParams: {
+              publicationState:
+                process.env.GATSBY_IS_PREVIEW === "true" ? "preview" : "live",
+              populate: {
+                cover: "*",
+                blocks: {
+                  populate: "*",
+                },
+              },
+            },
+          },
+          {
             singularName: "author",
           },
           {

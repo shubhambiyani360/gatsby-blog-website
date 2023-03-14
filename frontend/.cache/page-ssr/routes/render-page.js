@@ -2042,6 +2042,8 @@ function getForwards(collectedScripts) {
 exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-js */ "component---src-pages-about-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/about.js?export=default */ "./src/pages/about.js?export=default")),
+  "component---src-pages-contactform-js": () => __webpack_require__.e(/*! import() | component---src-pages-contactform-js */ "component---src-pages-contactform-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/contactform.js?export=default */ "./src/pages/contactform.js?export=default")),
+  "component---src-pages-contactformblog-js": () => __webpack_require__.e(/*! import() | component---src-pages-contactformblog-js */ "component---src-pages-contactformblog-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/contactformblog.js?export=default */ "./src/pages/contactformblog.js?export=default")),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
   "component---src-templates-article-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-article-post-js */ "component---src-templates-article-post-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/article-post.js?export=default */ "./src/templates/article-post.js?export=default"))
 };
@@ -2049,6 +2051,8 @@ exports.components = {
 exports.head = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-jshead */ "component---cache-dev-404-page-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=head */ "./.cache/dev-404-page.js?export=head")),
   "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-jshead */ "component---src-pages-about-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/about.js?export=head */ "./src/pages/about.js?export=head")),
+  "component---src-pages-contactform-js": () => __webpack_require__.e(/*! import() | component---src-pages-contactform-jshead */ "component---src-pages-contactform-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/contactform.js?export=head */ "./src/pages/contactform.js?export=head")),
+  "component---src-pages-contactformblog-js": () => __webpack_require__.e(/*! import() | component---src-pages-contactformblog-jshead */ "component---src-pages-contactformblog-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/contactformblog.js?export=head */ "./src/pages/contactformblog.js?export=head")),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head")),
   "component---src-templates-article-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-article-post-jshead */ "component---src-templates-article-post-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/article-post.js?export=head */ "./src/templates/article-post.js?export=head"))
 };
@@ -7745,6 +7749,105 @@ module.exports = require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSi
 
 "use strict";
 module.exports = require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\node_modules\\react\\index.js");
+
+/***/ }),
+
+/***/ "assert":
+/*!*************************!*\
+  !*** external "assert" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("assert");
+
+/***/ }),
+
+/***/ "http":
+/*!***********************!*\
+  !*** external "http" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("http");
+
+/***/ }),
+
+/***/ "https":
+/*!************************!*\
+  !*** external "https" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("https");
+
+/***/ }),
+
+/***/ "os":
+/*!*********************!*\
+  !*** external "os" ***!
+  \*********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("os");
+
+/***/ }),
+
+/***/ "stream":
+/*!*************************!*\
+  !*** external "stream" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("stream");
+
+/***/ }),
+
+/***/ "tty":
+/*!**********************!*\
+  !*** external "tty" ***!
+  \**********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("tty");
+
+/***/ }),
+
+/***/ "url":
+/*!**********************!*\
+  !*** external "url" ***!
+  \**********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("url");
+
+/***/ }),
+
+/***/ "util":
+/*!***********************!*\
+  !*** external "util" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("util");
+
+/***/ }),
+
+/***/ "zlib":
+/*!***********************!*\
+  !*** external "zlib" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("zlib");
 
 /***/ }),
 
