@@ -3931,7 +3931,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _public_page_data_sq_d_977222468_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/977222468.json */ "./public/page-data/sq/d/977222468.json");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/977222468.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/dist/reactstrap.modern.js");
@@ -3941,7 +3941,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const ContactForm = () => {
-  const data = _public_page_data_sq_d_977222468_json__WEBPACK_IMPORTED_MODULE_0__.data;
+  const data = Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/977222468.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
   const contactForms = data.allStrapiContactForm.edges;
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "container"
@@ -40413,17 +40413,6 @@ var polyfill = {
 
 //# sourceMappingURL=reactstrap.modern.js.map
 
-
-/***/ }),
-
-/***/ "./public/page-data/sq/d/977222468.json":
-/*!**********************************************!*\
-  !*** ./public/page-data/sq/d/977222468.json ***!
-  \**********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"data":{"allStrapiContactForm":{"edges":[{"node":{"name":"taha","email":"taha@gmail.com","message":"This mssg is from taha","image":{"data":{"image":"https://images.freeimages.com/images/previews/77c/nemo-the-horse-1339807.jpg"}}}},{"node":{"name":"shubham","email":"shubham@gmail.com","message":"Probant\\nse Lorem markdownum negat. Argo saxa videnda cornuaque hunc qui tanta spes teneas! Obliquis est dicenti est salutat ille tamen iuvenum nostrae dolore. - Colores nocituraque comitata eripiunt - Addit quodcunque solum cui et dextram illis - Nulli meus nec extemplo ille ferebat pressit Se blandita fulvae vox gravem Pittheus cesserunt sanguine herbis tu comitum tenuit. Sui in ruunt; Doridaque maculosae fuissem! Et loqui.\\n\\nAbit sua\\nse Lorem markdownum negat. Argo saxa videnda cornuaque hunc qui tanta spes teneas! Obliquis est dicenti est salutat ille tamen iuvenum nostrae dolore. - Colores nocituraque comitata eripiunt - Addit quodcunque solum cui et dextram illis - Nulli meus nec extemplo ille ferebat pressit Se blandita fulvae vox gravem Pittheus cesserunt sanguine herbis tu comitum tenuit. Sui in ruunt; Doridaque maculosae fuissem! Et loqui.","image":{"data":{"image":"https://images.freeimages.com/images/previews/31c/red-fox-in-the-wild-1-1624832.jpg"}}}},{"node":{"name":"check","email":"check@gmail.com","message":"This is imagekit.io testing","image":{"data":{"image":"https://ik.imagekit.io/pgaiwwz36/production/images/medium_DSC_0015_75dd72eb2d_HfvbW_H4MU.JPG?updatedAt=1678446041002"}}}}]}}}');
 
 /***/ })
 

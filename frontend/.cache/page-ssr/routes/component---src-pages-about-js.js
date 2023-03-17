@@ -3375,7 +3375,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _public_page_data_sq_d_4175596634_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/4175596634.json */ "./public/page-data/sq/d/4175596634.json");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/4175596634.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "./node_modules/react-helmet/es/Helmet.js");
@@ -3387,7 +3387,7 @@ const Seo = ({
 }) => {
   const {
     strapiGlobal
-  } = _public_page_data_sq_d_4175596634_json__WEBPACK_IMPORTED_MODULE_0__.data;
+  } = Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/4175596634.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
   const {
     siteName,
     defaultSeo,
@@ -3475,7 +3475,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _public_page_data_sq_d_3105690032_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/3105690032.json */ "./public/page-data/sq/d/3105690032.json");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/3105690032.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/layout */ "./src/components/layout.js");
@@ -3491,7 +3491,7 @@ __webpack_require__.r(__webpack_exports__);
 const AboutPage = () => {
   const {
     strapiAbout
-  } = _public_page_data_sq_d_3105690032_json__WEBPACK_IMPORTED_MODULE_0__.data;
+  } = Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/3105690032.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
   const {
     title,
     blocks
@@ -9269,28 +9269,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 module.exports = [];
-
-/***/ }),
-
-/***/ "./public/page-data/sq/d/3105690032.json":
-/*!***********************************************!*\
-  !*** ./public/page-data/sq/d/3105690032.json ***!
-  \***********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"data":{"strapiAbout":{"title":"About the strapi blog","blocks":[{"__typename":"STRAPI__COMPONENT_SHARED_QUOTE","title":"Thelonius Monk","quoteBody":"You\'ve got to dig it to dig it, you dig?"},{"__typename":"STRAPI__COMPONENT_SHARED_RICH_TEXT","richTextBody":{"__typename":"STRAPI__COMPONENT_SHARED_RICH_TEXTBody","data":{"id":"83e6edfe-e00c-5257-9c08-aeebfa26dde0","childMarkdownRemark":{"html":"<h2>Dedit imago conspicuus cum capillis totidem inhibere</h2>\\n<p>Lorem markdownum <strong>rerum</strong>, est limine: columbas: ab infelix hostem arbore nudis\\ncrudelis. Videtur reliquit ambo ferrum dote sub amne fatis <strong>illuc</strong>, in magis,\\nnec.</p>"}}}},{"__typename":"STRAPI__COMPONENT_SHARED_MEDIA","file":{"mime":"image/jpeg","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#d8e8e8","images":{"fallback":{"src":"/static/b2a321179422f5b4bf9d68053cc88ab2/dfab3/coffee_art_6676d5f170.jpg","srcSet":"/static/b2a321179422f5b4bf9d68053cc88ab2/fa894/coffee_art_6676d5f170.jpg 1456w,\\n/static/b2a321179422f5b4bf9d68053cc88ab2/67527/coffee_art_6676d5f170.jpg 2912w,\\n/static/b2a321179422f5b4bf9d68053cc88ab2/dfab3/coffee_art_6676d5f170.jpg 5824w","sizes":"(min-width: 5824px) 5824px, 100vw"},"sources":[{"srcSet":"/static/b2a321179422f5b4bf9d68053cc88ab2/04b6c/coffee_art_6676d5f170.webp 1456w,\\n/static/b2a321179422f5b4bf9d68053cc88ab2/f499e/coffee_art_6676d5f170.webp 2912w,\\n/static/b2a321179422f5b4bf9d68053cc88ab2/dbccf/coffee_art_6676d5f170.webp 5824w","type":"image/webp","sizes":"(min-width: 5824px) 5824px, 100vw"}]},"width":5824,"height":3259}}}}}]}}}');
-
-/***/ }),
-
-/***/ "./public/page-data/sq/d/4175596634.json":
-/*!***********************************************!*\
-  !*** ./public/page-data/sq/d/4175596634.json ***!
-  \***********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"data":{"strapiGlobal":{"siteName":"Iothingss","favicon":{"localFile":{"url":"http://127.0.0.1:1337/uploads/favicon_2a1b2e1180.png"}},"defaultSeo":{"metaTitle":"Page","metaDescription":"Customized Iot Solutions","shareImage":{"localFile":{"url":"http://127.0.0.1:1337/uploads/default_image_ad68610267.png"}}}}}}');
 
 /***/ })
 

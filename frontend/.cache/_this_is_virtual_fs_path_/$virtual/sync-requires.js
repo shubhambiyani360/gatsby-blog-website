@@ -8,7 +8,6 @@ exports.components = {
   "component---src-pages-about-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\pages\\about.js")),
   "component---src-pages-contactform-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\pages\\contactform.js")),
   "component---src-pages-contactformblog-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\pages\\contactformblog.js")),
-  "component---src-pages-index-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\pages\\index.js")),
-  "component---src-templates-article-post-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\templates\\article-post.js"))
+  "component---src-pages-index-js": preferDefault(require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\src\\pages\\index.js"))
 }
 
