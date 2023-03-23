@@ -2042,15 +2042,13 @@ function getForwards(collectedScripts) {
 exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-js */ "component---src-pages-about-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/about.js?export=default */ "./src/pages/about.js?export=default")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
-  "component---src-templates-article-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-article-post-js */ "component---src-templates-article-post-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/article-post.js?export=default */ "./src/templates/article-post.js?export=default"))
+  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default"))
 };
 
 exports.head = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-jshead */ "component---cache-dev-404-page-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=head */ "./.cache/dev-404-page.js?export=head")),
   "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-jshead */ "component---src-pages-about-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/about.js?export=head */ "./src/pages/about.js?export=head")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head")),
-  "component---src-templates-article-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-article-post-jshead */ "component---src-templates-article-post-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/article-post.js?export=head */ "./src/templates/article-post.js?export=head"))
+  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head"))
 };
 
 /***/ }),
@@ -7727,24 +7725,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*************************************************************************************************************************************!*\
-  !*** external "C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\node_modules\\react-dom\\server.js" ***!
-  \*************************************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** external "D:\\Blog Website\\gatsby-blog-website\\frontend\\node_modules\\react-dom\\server.js" ***!
+  \******************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\node_modules\\react-dom\\server.js");
+module.exports = require("D:\\Blog Website\\gatsby-blog-website\\frontend\\node_modules\\react-dom\\server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!********************************************************************************************************************************!*\
-  !*** external "C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\node_modules\\react\\index.js" ***!
-  \********************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** external "D:\\Blog Website\\gatsby-blog-website\\frontend\\node_modules\\react\\index.js" ***!
+  \*************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\shree\\Desktop\\Projects\\Gatsby\\iotBlogSite\\my-project\\frontend\\node_modules\\react\\index.js");
+module.exports = require("D:\\Blog Website\\gatsby-blog-website\\frontend\\node_modules\\react\\index.js");
 
 /***/ }),
 
