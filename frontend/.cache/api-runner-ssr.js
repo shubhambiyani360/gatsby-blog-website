@@ -1,14 +1,14 @@
 var plugins = [{
       name: 'gatsby-plugin-gatsby-cloud',
-      plugin: require('C:/Users/shree/Desktop/Projects/Gatsby/iotBlogSite/my-project/frontend/node_modules/gatsby-plugin-gatsby-cloud/gatsby-ssr.js'),
+      plugin: require('D:/Blog Website/gatsby-blog-website/frontend/node_modules/gatsby-plugin-gatsby-cloud/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-image',
-      plugin: require('C:/Users/shree/Desktop/Projects/Gatsby/iotBlogSite/my-project/frontend/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
+      plugin: require('D:/Blog Website/gatsby-blog-website/frontend/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'partytown',
-      plugin: require('C:/Users/shree/Desktop/Projects/Gatsby/iotBlogSite/my-project/frontend/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
+      plugin: require('D:/Blog Website/gatsby-blog-website/frontend/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 /* global plugins */

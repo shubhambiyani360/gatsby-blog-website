@@ -4085,6 +4085,75 @@ const ContactForm = () => {
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ContactForm);
 
+// This is just an example code for the flow for input for blog from user
+
+// import React, { useState } from "react"
+// import { navigate } from "gatsby"
+// import Image from "gatsby-image"
+// import axios from "axios"
+// import { IKUpload } from "imagekitio-react"
+
+// const BlogForm = () => {
+//   const [title, setTitle] = useState("")
+//   const [description, setDescription] = useState("")
+//   const [slug, setSlug] = useState("")
+//   const [image, setImage] = useState(null)
+
+//   const handleSubmit = async (e) => {
+//     e.preventDefault()
+
+//     // Upload the image to ImageKit.io
+//     const response = await axios.post("https://upload.imagekit.io/api/v1/files/upload", image, {
+//       headers: {
+//         "Content-Type": image.type,
+//         "Authorization": "your_imagekitio_secret_key"
+//       }
+//     })
+
+//     // Store the blog post in Strapi
+//     await axios.post("https://your-strapi-backend-url.com/posts", {
+//       title,
+//       description,
+//       slug,
+//       image: response.data.url
+//     })
+
+//     // Redirect to the blog post page
+//     navigate(`/blog/${slug}`)
+//   }
+
+//   return (
+//     <form onSubmit={handleSubmit}>
+//       <label>
+//         Title:
+//         <input type="text" value={title} onChange={(e) => setTitle(e.target.value)} />
+//       </label>
+//       <label>
+//         Description:
+//         <textarea value={description} onChange={(e) => setDescription(e.target.value)} />
+//       </label>
+//       <label>
+//         Slug:
+//         <input type="text" value={slug} onChange={(e) => setSlug(e.target.value)} />
+//       </label>
+//       <label>
+//         Image:
+//         <IKUpload
+//           fileName={file => file.name}
+//           folder="your_imagekitio_folder"
+//           publicKey="your_imagekitio_public_key"
+//           onError={err => console.log(err)}
+//           onSuccess={res => setImage(res)}
+//         />
+//       </label>
+//       {image && <Image fluid={image} />}
+//       <button type="submit">Submit</button>
+//     </form>
+//   )
+// }
+
+// export default BlogForm
+
 /***/ }),
 
 /***/ "./node_modules/has-flag/index.js":

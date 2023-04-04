@@ -26,6 +26,12 @@
     },
     "description": {
       "type": "text"
+    },
+    "blogs": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::blog.blog",
+      "mappedBy": "categories"
     }
   }
 }
